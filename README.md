@@ -1,7 +1,6 @@
 
-##Oi! Eu sou Ruan Linhares, estudante de ADS e bem-vindos ao meu repositório
+<h1>Oi! Eu sou Ruan Linhares e bem-vindos ao meu repositório</h1>
 
-#
 
 <p>Conhecimentos</p>
 <div style = "display:inline-block;">
