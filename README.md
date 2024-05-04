@@ -1,8 +1,8 @@
 
 # Hi! I'm Ruan Linhares, welcome to my repository.
-<p>I am a 🇧🇷Brazilian software development student, at the moment i'm learning JAVA language, but i am a little bit knowledge<br>in C ,HTML, CSS and SQL that use for college works.This a space dedicated for my ideas and projects, if anything here help <br>your apprenticeship, fell free for clone, but clone for learn only.</p>
+<p>I am a 🇧🇷Brazilian software development student, at the moment i'm learning JAVA language, but i am a little bit knowledge<br>in C ,HTML, CSS and SQL that use for college works. This a space dedicated for my ideas and projects, if anything here help <br>your apprenticeship, fell free for clone, but clone for learn only.</p>
 
-## Languages am Tools:
+## Languages and Tools:
 <div style = "display:inline-block;">
 <img height = "50px" width = "50px" src = "https://logospng.org/download/java/logo-java-512.png" >
 <img height = "50px" width = "50px" src = "https://logospng.org/download/html-5/logo-html-5-512.png" >
