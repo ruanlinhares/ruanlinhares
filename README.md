@@ -1,6 +1,6 @@
 
 # Hi! I'm Ruan Linhares, welcome to my repository.
-<pre><p>I am a 🇧🇷Brazilian software development student, at the moment i'm learning JAVA language, but i am a little bit knowledge<br>in C ,HTML, CSS and SQL that use for college works.This a space dedicated for my ideas and projects, if anything here help <br>your apprenticeship, fell free for clone, but clone for learn only.</p></pre>
+<p>I am a 🇧🇷Brazilian software development student, at the moment i'm learning JAVA language, but i am a little bit knowledge<br>in C ,HTML, CSS and SQL that use for college works.This a space dedicated for my ideas and projects, if anything here help <br>your apprenticeship, fell free for clone, but clone for learn only.</p>
 
 ## Languages am Tools:
 <div style = "display:inline-block;">
