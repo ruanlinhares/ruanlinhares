@@ -5,12 +5,10 @@
 ## Languages and Tools:
 <div style = "display:inline-block;">
 <img height = "50px" width = "50px" src = "https://logospng.org/download/java/logo-java-512.png" >
-<img height = "50px" width = "50px" src = "https://logospng.org/download/html-5/logo-html-5-512.png" >
-<img height = "50px" width = "50px" src = "https://logospng.org/download/css-3/logo-css-3-512.png"> 
+<img height = "50px" width = "50px" src = "https://logospng.org/download/python/logo-python-512.png" >
+<img height = "50px" width = "50px" src = "https://logospng.org/download/docker/docker-512.png"> 
 </div>
 <br>
-
-> JAVA IS LIFE!!!
 
 ## Connect and Contact:
 <div>
