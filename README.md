@@ -61,3 +61,4 @@ your apprenticeship, fell free for clone. But clone for learn only.
   </a>
 </div>  
   
+![Snake animation](https://github.com/ruanlinhares/ruanlinhares/blob/output/github-contribution-grid-snake.svg)
