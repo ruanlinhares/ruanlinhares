@@ -22,7 +22,8 @@ your apprenticeship, fell free for clone. But clone for learn only.
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
   <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px"     
      src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
-  <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a> 
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
   <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a> 
   
   
@@ -39,6 +40,7 @@ your apprenticeship, fell free for clone. But clone for learn only.
   
 ## Tools
 <div align="center">
+  <a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/144/arch-linux.png" alt="Docker" height="60" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/144/docker.png" alt="Docker" height="60" /></a>
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/144/git.png" alt="Git" height="60" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/plasticine/100/bash.png" alt="Bash" height="60" /></a>
